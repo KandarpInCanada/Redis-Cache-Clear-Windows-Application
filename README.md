@@ -12,10 +12,10 @@ Welcome to the Redis Cache Clear Windows Application repository! This applicatio
 ## Screenshots
 
 ### Main Application Window
-![Main Window](https://github.com/KandarpInCanada/Redis-Cache-Clear-Windows-Application/assets/152435122/f275dbaa-c44e-439e-b4fc-f80a297212ee)
+<img src="https://github.com/KandarpInCanada/Redis-Cache-Clear-Windows-Application/assets/152435122/f275dbaa-c44e-439e-b4fc-f80a297212ee" alt="Main Window" width="600">
 
 ### Cache Clear Progress
-![Cache Clear Progress](https://github.com/KandarpInCanada/Redis-Cache-Clear-Windows-Application/assets/152435122/6906bad1-a744-40bc-8f3d-5588215d1e83)
+<img src="https://github.com/KandarpInCanada/Redis-Cache-Clear-Windows-Application/assets/152435122/6906bad1-a744-40bc-8f3d-5588215d1e83" alt="Cache Clear Progress" width="600">
 
 ## How to Use
 
